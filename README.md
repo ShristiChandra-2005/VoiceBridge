@@ -15,6 +15,8 @@ Improving speech intelligibility
 Bridging the performance gap caused by data scarcity and class imbalance, especially for severe dysarthria
 
 The system combines Conformer-based speech modeling with a carefully selected GAN-based data augmentation strategy, evaluated in a two-phase framework.
+
+
 <img width="587" height="266" alt="image" src="https://github.com/user-attachments/assets/281d657b-d430-4e8f-b678-1fe28562a8aa" />
 
 🚨 Why This Project Matters
