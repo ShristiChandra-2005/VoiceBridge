@@ -1,5 +1,9 @@
-🎙️ VoiceBridge
-Severity-Aware Dysarthric Speech Analysis Using Conformer Networks and GAN-Based Data Augmentation
+🎙️ VoiceBridge : 
+
+Severity-Aware Dysarthric Speech Analysis using Conformer Networks & GANs
+
+<p align="center"> <b>Bridging impaired speech and intelligibility through deep learning</b> </p> <p align="center"> <img src="https://img.shields.io/badge/Domain-Speech%20AI-blue"/> <img src="https://img.shields.io/badge/Focus-Dysarthria-orange"/> <img src="https://img.shields.io/badge/Model-Conformer-green"/> <img src="https://img.shields.io/badge/Augmentation-GANs-purple"/> <img src="https://img.shields.io/badge/Status-Research%20Ready-success"/> </p>
+
 🔗 What is VoiceBridge?
 
 VoiceBridge is a research-oriented deep learning framework designed to improve the analysis of dysarthric speech by:
@@ -33,7 +37,4 @@ Healthcare AI research
 Robust ASR for impaired speech
 
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/a49d44d3-2a66-47bb-8532-83d5b4e26880" />
-🎙️ VoiceBridge
-Severity-Aware Dysarthric Speech Analysis using Conformer Networks & GANs
-<p align="center"> <b>Bridging impaired speech and intelligibility through deep learning</b> </p> <p align="center"> <img src="https://img.shields.io/badge/Domain-Speech%20AI-blue"/> <img src="https://img.shields.io/badge/Focus-Dysarthria-orange"/> <img src="https://img.shields.io/badge/Model-Conformer-green"/> <img src="https://img.shields.io/badge/Augmentation-GANs-purple"/> <img src="https://img.shields.io/badge/Status-Research%20Ready-success"/> </p>
 
