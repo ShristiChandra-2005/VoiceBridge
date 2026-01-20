@@ -17,7 +17,22 @@ Bridging the performance gap caused by data scarcity and class imbalance, especi
 The system combines Conformer-based speech modeling with a carefully selected GAN-based data augmentation strategy, evaluated in a two-phase framework.
 
 
-<img width="587" height="266" alt="image" src="https://github.com/user-attachments/assets/281d657b-d430-4e8f-b678-1fe28562a8aa" />
+## 🔄 Two-Phase Pipeline
+
+**VoiceBridge** follows a **two-phase pipeline** designed for fair evaluation and robust performance improvement:
+
+### 🟦 Phase 1: Learning & Comparison
+> 🧠 **Goal:** Build a strong baseline and objectively compare GAN models  
+- Train a Conformer-based severity classifier  
+- Evaluate multiple GAN architectures independently  
+- Select the best-performing GAN using objective metrics  
+
+### 🟩 Phase 2: Augmentation & Improvement
+> 🚀 **Goal:** Use the best GAN to improve real-world performance  
+- Apply severity-aware data augmentation  
+- Retrain the Conformer model  
+- Measure classification and intelligibility improvements  
+
 
 🚨 Why This Project Matters
 
