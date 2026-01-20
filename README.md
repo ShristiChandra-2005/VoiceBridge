@@ -34,6 +34,8 @@ The system combines Conformer-based speech modeling with a carefully selected GA
 - Measure classification and intelligibility improvements  
 
 
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/a49d44d3-2a66-47bb-8532-83d5b4e26880" />
 🚨 Why This Project Matters
 
 Dysarthric speech analysis faces three major challenges:
@@ -53,6 +55,4 @@ Clinical speech assessment
 Healthcare AI research
 
 Robust ASR for impaired speech
-
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/a49d44d3-2a66-47bb-8532-83d5b4e26880" />
 
